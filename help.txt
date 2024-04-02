@@ -4,4 +4,19 @@
 
 // yarn add express
 
-// node index.js
+// node index.js // ---------------------------------------------------------------------------------------------------
+
+// yarn add nodemon --dev
+
+// yarn nodemon index.js
+// yarn nodemon --inspect index.js // ---------------------------------------------------------------------------------
+
+// yarn add ts-node @types/express @types/node typescript --dev
+// delete ^
+
+// yarn tsc --init
+// tsconfig.json:    "outDir": "./dist",
+
+// yarn add @types/mime@3 //-------------------------------------------------------!!!some fix!!!----------(02.04.2024)
+// yarn tsc -w
+// yarn nodemon ./dist/index.js

@@ -1,8 +1,8 @@
-const express = require('express')
+import express from 'express'
 const app = express()
 
 app.get('/', (req, res) => {
-    res.json({hello: 'world'})
+    res.json({hello: 'world3'})
 })
 
 app.listen(3000, () => {
