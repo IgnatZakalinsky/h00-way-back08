@@ -1,0 +1,7 @@
+// terminal:
+
+// yarn init --yes
+
+// yarn add express
+
+// node index.js
