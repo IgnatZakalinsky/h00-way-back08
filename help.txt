@@ -19,4 +19,4 @@
 
 // yarn add @types/mime@3 //-------------------------------------------------------!!!some fix!!!----------(02.04.2024)
 // yarn tsc -w
-// yarn nodemon ./dist/index.js
+// yarn nodemon --inspect ./dist/index.js

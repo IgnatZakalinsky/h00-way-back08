@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "watch": "tsc -w",
+    "dev": "nodemon --inspect ./dist/index.js"
+  },
   "dependencies": {
     "@types/mime": "3",
     "express": "4.19.2"
